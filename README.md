@@ -1,5 +1,3 @@
-# BADIC-IMAGE-SEGMENTATION-WITH-SOM
-
 # Basic Segmentation with SOM
 
 This repository presents an implementation of basic segmentation using Self-Organizing Maps (SOM), an artificial neural network technique. SOM is employed to partition and classify data, particularly useful in tasks like clustering and segmentation.
